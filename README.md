@@ -16,6 +16,7 @@ steps on creating application:
 10) that are then displayed by using albumsList and ArtistList.
 
 ##########################################################
-
-you can run the project by using the command:npm start
-to stop the application use : ctrl+c
+how to start the application:
+1) you must install the node_modules first by using the command : npm install
+2) you can then run the project by using the command:npm start
+3) once you are finished you can  stop the application by using the command: ctrl+c
