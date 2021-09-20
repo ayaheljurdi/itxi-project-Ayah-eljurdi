@@ -36,6 +36,7 @@ const ArtistsList = ({artists,props}) => {
   const  handleInputChange = value =>() => {
     const searchTerm = value;
 console.log(searchTerm);
+    alert("the artists you choose is "+ searchTerm)
     setSearchTerm(searchTerm);
   
 //handleSearch();
